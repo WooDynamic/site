@@ -2,24 +2,24 @@
 path : "/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns"
 title: "13 Best Subject Lines for Abandoned Cart Email Campaigns"
 date: "2019-05-30"
+datemodified: "2019-07-31"
 author: "Sharon Thomas"
 description: "Are you in trouble due to boring subject lines in abandoned cart email campaigns? Then, this post with some of the best subject lines will bring about a change."
 image: "../images/13-email-subject-lines/13-email-subject-lines.png"
 thumbnail: "../images/13-email-subject-lines/13-email-subject-lines.png"
 ---
-Email marketing is one of the cheapest ways to allure customers and it is the same with getting back customers who have abandoned their carts when shopping online. Abandoned cart email campaigns always do well when planned the right way.
 
-The planning of an <link-text url="https://www.retainful.com/blog/how-to-write-abandoned-cart-emails-in-woocommerce" rel="noopener" target="_blank"> abandoned cart email</link-text> campaign should start off not with the content of the email but the subject line. If that impresses the customer, then there is no looking back. Open rates will soar high followed by returning customers.
+Email Marketing is the most economical way of bringing back customers who abandon their carts. The planning of an <link-text url="https://www.retainful.com/blog/how-to-write-abandoned-cart-emails-in-woocommerce" rel="noopener" target="_blank"> abandoned cart email</link-text> campaign should start off not with the content of the email but the subject line. If that impresses the customer, then there is no looking back. Open rates will soar high followed by returning customers.
 
 Here are some abandoned cart subject lines used by top retailers to reduce cart abandonment.
 
-<h2><underline>13 Subject lines from best abandoned cart emails</underline></h2>
+<toc></toc>
 
-A look into these subject lines will change your general perspective on how to craft one. Think crooked but remain wise.
+## 13 Subject Line strategies for your abandoned cart emails
 
-Dive in.
+A look into these subject lines will change your general perspective on how to craft one. Let's dive in!
 
-<h3><highlight>‘Generic-type’ subject lines</highlight></h3>
+### ‘Generic-type’ subject lines
 
 The list of subject lines that you find here are the most commonly used ones. Any avid shopper will be used to coming across these after cart abandonment.
 
@@ -51,7 +51,7 @@ Some more examples for you.
 
 ___
 
-<h3><highlight>‘Funny n Friendly’ subject lines</highlight></h3>
+### ‘Funny n Friendly’ subject lines
 
 **1. Lemme Teleport You Back To Your Cart. Free Of Charge.**
 
@@ -85,41 +85,8 @@ Take a look at these too.
 
 ___
 
-<h3><highlight>‘Obey my command’ subject lines</highlight></h3>
 
-Think twice before you try out these subject lines. It is a word of caution. If you want this to work, you must know your audience inside out.
-
-**1. Don’t leave without this**
-
-*Sent by: Away*
-
-Away is a company that sells travel bags and accessories. An apt name I must say.
-
-They decided to use an authoritative tone for their abandoned cart subject lines. It works for them simply because they have built a good rapport with their customer base. 
-
-You probably would not listen to anyone whom you despise. No one will. So, when credibility is established this abandoned cart email subject line is a CLEAR winner.
-
-Moreover, by saying ‘Don’t leave without this’, the content of the email is not revealed and so readers get intrigued to take a peek which itself spells success.
-
-More examples.
-
-**2. Complete you order**
-
-**3. Make your purchase now**
-
-**4. The TIME is HERE. Proceed to your checkout.**
-
-**5. This is it. We can’t wait anymore.**
-
-**6. Open me up and head to your cart.**
-
-**7. Act now or your cart will be up for sale.**
-
-**8. Finish your purchase before it sells out!** - Express
-
-___
-
-<h3><highlight>‘Personalized’ subject lines</highlight></h3>
+### ‘Personalized’ subject lines
 
 <br>
 Campaign Monitor found out that <link-text url="https://www.campaignmonitor.com/blog/email-marketing/2019/07/15-email-personalization-stats-might-surprise-you/" rel="noopener nofollow" target="_blank">when emails have personalized subject lines, they are 26% more likely to be opened.</link-text> 
@@ -153,7 +120,7 @@ Here are more samples.
 
 ___
 
-<h3><highlight>‘We are concerned’ subject lines</highlight></h3>
+### ‘We are concerned’ subject lines
 
 You might never know the problem or emotion that a person is experiencing while shopping from the other end of the world. It does not mean you can stay away from addressing them in your abandoned cart email subject lines.
 
@@ -185,7 +152,7 @@ More options to choose from.
 
 ___
 
-<h3><highlight>‘Scarcity’ subject lines</highlight></h3>
+### ‘Scarcity’ subject lines
 
 Orders will pour in when you say ‘2 pieces of [product name] remain’. Everyone wants to own those last two pieces because people hate missing out on their favorite stuff.
 
@@ -218,7 +185,7 @@ Some more here.
 
 ___
 
-<h3><highlight>‘FOMO’ subject lines</highlight></h3>
+### ‘FOMO’ subject lines
 
 The tick of a clock literally pumps the heart at a faster pace. Similar is the purpose of a countdown which generates fear - the Fear Of Missing Out, dearly called FOMO.
 
@@ -250,15 +217,15 @@ More to ponder about.
 
 ___
 
-<h3><highlight>‘Product mention’ subject lines</highlight></h3>
+### ‘Product mention’ subject lines
 
 Forgetfulness is everywhere nowadays. We depend on gadgets to remind us of important things. So, the gadgets in your eCommerce store have the data of what the customer was about to purchase. Utilize that data to the fullest for the abandoned cart emails.
-
-**1. Still Deciding? Your Dolce & Gabbana Three-Button Wool Blazer Is Waiting!**
-
-*Sent by: The RealReal*
-
-It could have been just ‘Still Deciding?’ to make it short and sweet like a little nudge. Why should the product name be there?
+-
+**1. Still Deciding? Your Dolce- & Gabbana Three-Button Wool Blazer Is Waiting!**-
+-
+*Sent by: The RealReal*-
+-
+It could have been just ‘Still -Deciding?’ to make it short and sweet like a little nudge. Why should the product name be there?
 
 The answer is this. The RealReal is an online store that sells out clothes and accessories from various brands and designers. So, it is a necessity to let the customer know the product in the abandoned cart. In addition, it also acts as a reminder to entice the customer into completing the checkout.
 
@@ -280,7 +247,7 @@ Some extras…
 
 ___
 
-<h3><highlight>‘Being Sweet’ subject lines</highlight></h3>
+### ‘Being Sweet’ subject lines
 
 e-Commerce stores that decide on such subject lines must have a very kind heart and be generous with incentives.
 
@@ -310,7 +277,7 @@ Check out the below subject lines too.
 
 ___
 
-<h3><highlight>‘Getting curious’ subject lines</highlight></h3>
+### ‘Getting curious’ subject lines
 
 You have already tapped into your customer’s mind when you get them to think ‘What can that be?’, ‘What’s in there?’. This is done with subject lines that create a curiosity to open the email.
 
@@ -352,13 +319,13 @@ Too many subject lines from Chubbies? That is because they are worth it. They ar
 
 ___
 
-<h3><highlight>‘So close’ subject lines</highlight></h3>
+### ‘So close’ subject lines
 
 The customer might never know how far he has traveled to get to the checkout. Shopping cart abandonment is something like giving up on your gal when the destination is just around the corner.
 
 It is your duty to make the customer realize ‘You have come a long way. Why not take another step?’
 
-#### 1. Don’t Forget: You’re a Click Away from Making it Yours
+**1. Don’t Forget: You’re a Click Away from Making it Yours**
 
 *Sent by: Bloomingdale’s*
 
@@ -384,7 +351,7 @@ Seven more here.
 
 ___
 
-<h3><highlight>‘Word-play’ subject lines</highlight></h3>
+### ‘Word-play’ subject lines
 
 The inboxes of your customers’ are bombarded with hundreds of emails every day. How will you make yours stand out and noticeable? You play with words. When done, it catches the attention of the user immediately in seconds.
 
@@ -410,7 +377,41 @@ Other crazy subject lines.
 
 ___
 
-<h3><highlight>‘Emoji’ subject lines</highlight></h3>
+### ‘Obey my command’ subject lines
+
+Think twice before you try out these subject lines. It is a word of caution. If you want this to work, you must know your audience inside out.
+
+**1. Don’t leave without this**
+
+*Sent by: Away*
+
+Away is a company that sells travel bags and accessories. An apt name I must say.
+
+They decided to use an authoritative tone for their abandoned cart subject lines. It works for them simply because they have built a good rapport with their customer base. 
+
+You probably would not listen to anyone whom you despise. No one will. So, when credibility is established this abandoned cart email subject line is a CLEAR winner.
+
+Moreover, by saying ‘Don’t leave without this’, the content of the email is not revealed and so readers get intrigued to take a peek which itself spells success.
+
+More examples.
+
+**2. Complete you order**
+
+**3. Make your purchase now**
+
+**4. The TIME is HERE. Proceed to your checkout.**
+
+**5. This is it. We can’t wait anymore.**
+
+**6. Open me up and head to your cart.**
+
+**7. Act now or your cart will be up for sale.**
+
+**8. Finish your purchase before it sells out!** - Express
+
+___
+
+### ‘Emoji’ subject lines
 
 Emoji have replaced words from the time they were designed and the trend has never faded. When used in abandoned cart email subject lines, the emoji demands attention just like the word-play technique.
 
@@ -555,7 +556,7 @@ How about **a quick recap?**
 
 ___
 
-***<highlight>Here is a bonus!</highlight>***
+***Here is a bonus!***
 
 Scheduling of a cart recovery campaign must be given prime importance to get the desired results from it. A campaign must contain at least 3 effective abandoned cart emails set at certain intervals of time. Below given is the suggested time interval between emails.
 

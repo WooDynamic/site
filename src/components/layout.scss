@@ -1010,8 +1010,10 @@ body {
     margin-bottom: 15px;
   }
 
-  .feature-list {
-    margin: 30px 10px;
+  .features-list {
+    ul{
+      padding: 5px 50px !important;
+    }
   }
 
   .card-icon {
@@ -2374,6 +2376,9 @@ body {
       margin: 0 0 0.75em;
       padding: 0 0 0 1.2em;
       font-weight: 400;
+      p{
+        display: inline-block;
+      }
       &::before {
         content: '';
         display: inline-block;
@@ -3284,6 +3289,9 @@ body {
     li {
       font-size: 16px;
       line-height: 1.8;
+      p{
+        display: inline-block;
+      }
       a {
         display: inline-block;
         color: #333;

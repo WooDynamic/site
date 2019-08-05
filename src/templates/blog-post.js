@@ -37,7 +37,7 @@ const TertiaryTitle = styled.h3`
     font-weight: 600;
 `
 
-const renderAst = new rehypeReact({
+const renderAst = toc => new rehypeReact({
     createElement: React.createElement,
     components: {
         h1: PrimaryTitle,
@@ -51,7 +51,7 @@ const renderAst = new rehypeReact({
         "link-text": LinkText,
         row: Row,
         column: Col,
-        "table-contents": TableOfContents,
+        toc : props => (<TableOfContents toc={toc} {...props}></TableOfContents>),
         cta:Cta,
         "cta-box":CtaBox
     },
@@ -61,12 +61,12 @@ export default function BlogPost(props) {
     const url = props.data.site.siteMetadata.siteUrl;
     const sitename = props.data.site.siteMetadata.title;
     const thumbnail = props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src;
-    const {title} = props.data.markdownRemark.frontmatter;
+    const title = props.data.markdownRemark.frontmatter.title;
     const datePublished = props.data.markdownRemark.frontmatter.date;
     const author = props.data.markdownRemark.frontmatter.author;
     const {prev, next} = props.pageContext;
     const toc = props.data.markdownRemark.tableOfContents;
-    
+ 
     return (
         <Layout>
             <MetaTags
@@ -76,9 +76,11 @@ export default function BlogPost(props) {
                 url={url}
                 pathname={props.location.pathname}
                 datePublished = {datePublished}
+                datemodified = {props.data.markdownRemark.frontmatter.datemodified}
                 isBlogPost= {true}
                 author={author}
                 sitename={sitename}
+                keywords = {props.data.markdownRemark.frontmatter.keywords}
             />
             <div className="single-blog-post">
                 <Container type='s'>
@@ -101,17 +103,9 @@ export default function BlogPost(props) {
                         </p>
                         }
                         <hr/>
-                    </div>
-                        {/*} <div className="table-of-contents">
-                            <h4>Table of Contents</h4>
-                            <div  dangerouslySetInnerHTML={{__html: props.data.markdownRemark.tableOfContents}} />
-                    </div> */}
-                        <div className="table-of-contents">
-                            <h4>Table of Contents</h4>
-                            <div  dangerouslySetInnerHTML={{__html: toc}} />
-                        </div>
-                    <div className="content">
-                        {renderAst(props.data.markdownRemark.htmlAst)}
+                    </div>         
+                    <div className="content">           
+                        {renderAst(toc)(props.data.markdownRemark.htmlAst)}
                     </div>
                     <div className="footer">
                         <Share title={title} url={url} pathname={props.location.pathname}/>
@@ -139,6 +133,7 @@ export const query = graphql`
           title
           description
           category
+          keywords
           image{
               childImageSharp{
                   fluid{
@@ -148,6 +143,7 @@ export const query = graphql`
           }
           author
           date(formatString: "DD MMMM, YYYY")
+          datemodified(formatString: "DD MMMM, YYYY")
       }
     }
     site {
